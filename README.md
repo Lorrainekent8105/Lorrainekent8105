@@ -1,16 +1,16 @@
-## Hi there 👋
+📚 Rachel Kent — Junior Web Developer | Automation Enthusiast
 
-<!--
-**Lorrainekent8105/Lorrainekent8105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Rachel — a passionate Junior Web Developer and Automation Specialist focused on building beautiful, functional, and efficient web experiences. I specialize in front-end development (HTML, CSS, basic JavaScript) and automation scripting with Python and no-code tools like Zapier.
+🚀 Skills
 
-Here are some ideas to get you started:
+    HTML5 / CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Python scripting
+
+    SQL (basic querying and data management)
+
+    No-Code Automation (Zapier, Airtable, Webflow)
+
+    Manual QA Testing
+
+    Git & GitHub

@@ -40,5 +40,5 @@ Simple dataset with SQL queries used to extract key data insights, like top cust
 
 ## 📫 Let's Connect
 
-- ✉️ Email: rachel.kent@email.com
+- ✉️ Email: booksaremyfavorite81@gmail.com
 - 💼 Open to freelance
